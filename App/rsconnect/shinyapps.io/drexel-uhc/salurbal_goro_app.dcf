@@ -1,0 +1,14 @@
+name: salurbal_goro_app
+title: salurbal_goro_app
+username:
+account: drexel-uhc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4525885
+bundleId: 4955500
+url: https://drexel-uhc.shinyapps.io/salurbal_goro_app/
+when: 1629755159.73825
+lastSyncTime: 1629755159.73825
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: salurbal_data_sim.R
